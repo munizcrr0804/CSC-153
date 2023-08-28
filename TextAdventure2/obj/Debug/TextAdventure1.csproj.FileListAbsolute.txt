@@ -1,0 +1,12 @@
+E:\classes\CSC-153\TextAdventure1\TextAdventure1\bin\Debug\TextAdventure1.exe.config
+E:\classes\CSC-153\TextAdventure1\TextAdventure1\bin\Debug\TextAdventure1.exe
+E:\classes\CSC-153\TextAdventure1\TextAdventure1\bin\Debug\TextAdventure1.pdb
+E:\classes\CSC-153\TextAdventure1\TextAdventure1\obj\Debug\TextAdventure1.exe
+E:\classes\CSC-153\TextAdventure1\TextAdventure1\obj\Debug\TextAdventure1.pdb
+D:\classes\CSC-153\TextAdventure1\TextAdventure1\bin\Debug\TextAdventure1.exe.config
+D:\classes\CSC-153\TextAdventure1\TextAdventure1\bin\Debug\TextAdventure1.exe
+D:\classes\CSC-153\TextAdventure1\TextAdventure1\bin\Debug\TextAdventure1.pdb
+D:\classes\CSC-153\TextAdventure1\TextAdventure1\obj\Debug\TextAdventure1.csprojAssemblyReference.cache
+D:\classes\CSC-153\TextAdventure1\TextAdventure1\obj\Debug\TextAdventure1.csproj.CoreCompileInputs.cache
+D:\classes\CSC-153\TextAdventure1\TextAdventure1\obj\Debug\TextAdventure1.exe
+D:\classes\CSC-153\TextAdventure1\TextAdventure1\obj\Debug\TextAdventure1.pdb
